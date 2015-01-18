@@ -113,6 +113,7 @@ p {
   z-index: 10;
   width: 100%;
   background-position: 0% 0%, 50% 50%;
+  background-color: #317484;
 }
 .overlay-preview {
   width: 30px;
